@@ -12,3 +12,4 @@ I also bulit the circuit in both IRL and tinkercad so pls check it out
 https://www.tinkercad.com/things/4dp3MEXhwjb-odyssues-ship
 i cannot add the video here cause its too big please messege this number 7989570846
 or i will just send the video to all the admins 
+or its in the google drive of all the task related files
