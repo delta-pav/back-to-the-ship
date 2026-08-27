@@ -10,3 +10,5 @@ then i added the push button(anchor) and made it so that when the button is pres
 and then i connected the LCD with the help of ai, I defined open sea state and made the code so that it shows open sea when non of the sensors are on,then i defined the countdown of 5 sec to start when either of the sensors go off. Then I defined the wrecked state, which will be shown after the 5 second countdown.
 I also bulit the circuit in both IRL and tinkercad so pls check it out 
 https://www.tinkercad.com/things/4dp3MEXhwjb-odyssues-ship
+i cannot add the video here cause its too big please messege this number 7989570846
+or i will just send the video to all the admins 
