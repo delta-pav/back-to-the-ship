@@ -177,7 +177,7 @@ void loop() {
     lcd.setCursor(0, 1);
 
     if (distanceDanger && lightDanger) {
-      lcd.print("LED + BUZZER");
+      lcd.print("DANGER!");
     }
     else if (distanceDanger) {
       lcd.print("LED ACTIVE");
